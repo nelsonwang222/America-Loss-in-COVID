@@ -9,7 +9,6 @@ The sensational numbers about the Covid-19 pandemic in America keep growing in 2
 With the help of the Google Dataset Search recommended by HKBU Library in the Data Repositories, it’s easy to find the dataset United States COVID-19 Cases and Deaths by State over Time provided by CDC, which contains the detailed data of different states about the Covid-19 cases and deaths since January 22 2020, as well as the daily numbers of new cases.
 
 **Dataset <br/>**
-
 Dataset One: <br/>
 * United States COVID-19 Cases and Deaths by State over Time provided by CDC: <br/>
 https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
